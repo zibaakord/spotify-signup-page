@@ -30,7 +30,6 @@ This project is a pixel-perfect clone of the **Spotify Signup Page**, designed t
 
 ![Screenshot of the Spotify Signup Page](./screenshot.png)
 
-> If the image does not appear, make sure `screenshot.png` is placed in the project root or update the path accordingly.
 
 ---
 
